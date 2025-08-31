@@ -1,0 +1,14 @@
+D:\repos\execiciosDeFixacao\execiciosDeFixacao\bin\Debug\net8.0\execiciosDeFixacao.exe
+D:\repos\execiciosDeFixacao\execiciosDeFixacao\bin\Debug\net8.0\execiciosDeFixacao.deps.json
+D:\repos\execiciosDeFixacao\execiciosDeFixacao\bin\Debug\net8.0\execiciosDeFixacao.runtimeconfig.json
+D:\repos\execiciosDeFixacao\execiciosDeFixacao\bin\Debug\net8.0\execiciosDeFixacao.dll
+D:\repos\execiciosDeFixacao\execiciosDeFixacao\bin\Debug\net8.0\execiciosDeFixacao.pdb
+D:\repos\execiciosDeFixacao\execiciosDeFixacao\obj\Debug\net8.0\execiciosDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\execiciosDeFixacao\execiciosDeFixacao\obj\Debug\net8.0\execiciosDeFixacao.AssemblyInfoInputs.cache
+D:\repos\execiciosDeFixacao\execiciosDeFixacao\obj\Debug\net8.0\execiciosDeFixacao.AssemblyInfo.cs
+D:\repos\execiciosDeFixacao\execiciosDeFixacao\obj\Debug\net8.0\execiciosDeFixacao.csproj.CoreCompileInputs.cache
+D:\repos\execiciosDeFixacao\execiciosDeFixacao\obj\Debug\net8.0\execiciosDeFixacao.dll
+D:\repos\execiciosDeFixacao\execiciosDeFixacao\obj\Debug\net8.0\refint\execiciosDeFixacao.dll
+D:\repos\execiciosDeFixacao\execiciosDeFixacao\obj\Debug\net8.0\execiciosDeFixacao.pdb
+D:\repos\execiciosDeFixacao\execiciosDeFixacao\obj\Debug\net8.0\execiciosDeFixacao.genruntimeconfig.cache
+D:\repos\execiciosDeFixacao\execiciosDeFixacao\obj\Debug\net8.0\ref\execiciosDeFixacao.dll
