@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\execiciosDeFixacao\\exercicios-C--COMPLETO-Programa-o-Orientada-a-Objetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{356CFF2A-9AC7-46ED-9CBA-839EAA103B5D}|execiciosDeFixacao\\execiciosDeFixacao.csproj|d:\\repos\\execiciosdefixacao\\exercicios-c--completo-programa-o-orientada-a-objetos\\execiciosdefixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356CFF2A-9AC7-46ED-9CBA-839EAA103B5D}|execiciosDeFixacao\\execiciosDeFixacao.csproj|solutionrelative:execiciosdefixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\execiciosDeFixacao\\exercicios-C--COMPLETO-Programa-o-Orientada-a-Objetos\\execiciosDeFixacao\\Program.cs",
+              "RelativeDocumentMoniker": "execiciosDeFixacao\\Program.cs",
+              "ToolTip": "D:\\repos\\execiciosDeFixacao\\exercicios-C--COMPLETO-Programa-o-Orientada-a-Objetos\\execiciosDeFixacao\\Program.cs",
+              "RelativeToolTip": "execiciosDeFixacao\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwEIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T23:37:35.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
